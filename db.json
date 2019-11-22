@@ -1,7 +1,10 @@
 {
   "tenDayData": [
     { "temperature": 88, "textDescription": "Hot", "windDirection": 23, "windSpeed":50, "time": "Saturday" },
-    { "temp": 98, "textDescription": "Real Hot", "windDirection": 43, "windSpeed":10, "time": "Sunday" },
-    { "temp": 108, "textDescription": "Too Hot", "windDirection": 33, "windSpeed":30, "time": "Monday" }
+    { "temperature": 98, "textDescription": "Real Hot", "windDirection": 43, "windSpeed":10, "time": "Sunday" },
+    { "temperature": 108, "textDescription": "Icy", "windDirection": 33, "windSpeed":30, "time": "Monday" },
+    { "temperature": 88, "textDescription": "Dark", "windDirection": 23, "windSpeed":50, "time": "Tuesday" },
+    { "temperature": 98, "textDescription": "Windy", "windDirection": 43, "windSpeed":10, "time": "Wednesday" },
+    { "temperature": 108, "textDescription": "Windy", "windDirection": 33, "windSpeed":30, "time": "Thursday" },
   ]
 }
